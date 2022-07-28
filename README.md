@@ -106,10 +106,10 @@ int main()
 
 Solution of Problem 4                                           #4
 
-Input = 5  >> 12 34 56 78 76                      >> Output = Not Ordered
-Input = 7  >> 1 2 3 4 5 6 7                       >> Output = Ordered
-Input = 3  >> 567 456 234                         >> Output = Ordered
-Input = 10 >> 12 15 19 23 27 33 120 123 197 248   >> Output = Ordered
+Input = 5  >> 12 34 56 78 76                      >> Output = Not Ordered.
+Input = 7  >> 1 2 3 4 5 6 7                       >> Output = Ordered.
+Input = 3  >> 567 456 234                         >> Output = Ordered.
+Input = 10 >> 12 15 19 23 27 33 120 123 197 248   >> Output = Ordered.
 
 The code of Problem 4
 
